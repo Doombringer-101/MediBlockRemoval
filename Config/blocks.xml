@@ -429,6 +429,7 @@
 <remove xpath="blocks/block[@name='corrugatedMetalPillar0.05SCTR']"/>
 <remove xpath="blocks/block[@name='corrugatedMetalPillar0.025CTR']"/>
 <remove xpath="blocks/block[@name='corrugatedMetalPillar0.025SCTR']"/>
+<remove xpath="blocks/block[@name='arrowSlit']"/>
 <remove xpath="blocks/block[@name='rConcreteStairs25CornerCNR']"/>
 <remove xpath="blocks/block[@name='scrapIronFrameQuarterCNR3Way']"/>
 <remove xpath="blocks/block[@name='solidScrapIronFrameQuarterCNR3Way']"/>
